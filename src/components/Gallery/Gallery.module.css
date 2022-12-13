@@ -1,0 +1,7 @@
+.gallery {
+    margin: 1rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+
+    list-style: none;
+}
