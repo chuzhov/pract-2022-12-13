@@ -1,4 +1,3 @@
-import db from "db/download.json"
 import css from "./Gallery.module.css"
 import { GalleryItem } from "./GalleryItem";
 import axiosFetchPictures from "utils/loadPicures";
