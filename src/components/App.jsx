@@ -1,18 +1,17 @@
-import { Gallery } from "./Gallery/Gallery";
+import { Gallery } from './Gallery/Gallery';
 
 export const App = () => {
   return (
     <div
       style={{
-        
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
         fontSize: 40,
-        color: '#010101'
+        color: '#010101',
       }}
     >
-      <Gallery/>
+      <Gallery />
     </div>
   );
 };
